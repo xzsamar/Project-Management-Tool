@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "http://localhost:5000/api/auth";
+const API_URL = "https://project-management-tool-5lg2.onrender.com";
 
 // REGISTER USER
 export const registerUser = async (userData) => {
