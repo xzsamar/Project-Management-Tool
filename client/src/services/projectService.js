@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "https://project-management-tool-5lg2.onrender.com";
+const API_URL = "https://project-management-tool-5lg2.onrender.com/api/auth";
 
 // GET PROJECTS
 export const getProjects = async () => {
